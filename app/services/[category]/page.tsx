@@ -5,6 +5,7 @@ import {
   services,
   isValidServiceCategory,
 } from "@/data/services";
+import { generateAllParams, isImageRequest } from "@/utils/staticPageHelpers";
 
 // 静的生成設定
 export const dynamic = "force-static";
