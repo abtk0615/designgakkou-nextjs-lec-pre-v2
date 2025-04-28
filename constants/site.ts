@@ -107,3 +107,10 @@ export const ANALYTICS = {
   MEASUREMENT_ID: GA_MEASUREMENT_ID,
   VERIFICATION_CODE: GSC_VERIFICATION_CODE,
 };
+
+
+ /**
+  * お問い合わせフォームURL
+  */
+ export const CONTACT_FORM_URL = "https://forms.gle/5duEBAggio75eoS4A";
+ 

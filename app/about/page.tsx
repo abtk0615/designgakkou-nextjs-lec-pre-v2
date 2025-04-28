@@ -10,7 +10,7 @@ import {
   MapPin,
   Train,
   Phone,
-  Target as TargetIcon,
+  TargetIcon,
   Eye,
   Sparkles,
 } from "lucide-react";
